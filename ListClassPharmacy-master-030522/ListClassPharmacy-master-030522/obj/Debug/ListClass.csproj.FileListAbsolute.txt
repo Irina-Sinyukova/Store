@@ -1,0 +1,17 @@
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\ListClass.csproj.AssemblyReference.cache
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\MainWindow.g.cs
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\WindowAddPreparate.g.cs
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\App.g.cs
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\ListClass_MarkupCompile.cache
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\ListClass_MarkupCompile.lref
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\bin\Debug\ListClass.exe.config
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\bin\Debug\ListClass.exe
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\bin\Debug\ListClass.pdb
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\MainWindow.baml
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\WindowAddPreparate.baml
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\ListClass.g.resources
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\ListClass.Properties.Resources.resources
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\ListClass.csproj.GenerateResource.cache
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\ListClass.csproj.CoreCompileInputs.cache
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\ListClass.exe
+G:\2021-2022\МДК  01.01 ИСП.20А\ListClassPharmacy-master-030522\ListClassPharmacy-master-030522\obj\Debug\ListClass.pdb
